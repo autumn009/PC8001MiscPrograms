@@ -5,7 +5,7 @@ Old misc programs for PC-8001
 
 なお、プログラム中の英語はかなり間違ってます。
 
-#3DM diredctory
+# 3DM diredctory
 3DM.cmt/3DM.bas
 
 　3次元表示の迷路
@@ -18,14 +18,14 @@ Old misc programs for PC-8001
 
 　画面切り換え中にエラーで止まった場合は"width,"リターンで表示を復帰させる。
 
-#MachineWiter diredctory
+# MachineWiter diredctory
 m3.cmt/m3.bas
 
 　16進ダンプリストの入力支援ツール。雑誌I/Oの縦横チェックサムに対応します。
 
 　起動したらhキーでコマンド一覧が出ます。
 
-#mayoimichi diredctory
+# mayoimichi diredctory
 　2次元表示の迷路脱出ゲーム。
 
 mayoi.cmt/mayoi.bas
